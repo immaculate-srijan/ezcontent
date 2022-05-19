@@ -121,7 +121,7 @@
         "Restrict access to empty top level administration pages": "https://www.drupal.org/files/issues/2020-10-28/296693-216.patch"
       },
       "drupal/slick": {
-        "Slick patch": "https://www.drupal.org/files/issues/2020-03-03/slick_blazy_formatter_field_type_fix-3117331-2.patch"
+        "Slick patch": "https://www.drupal.org/files/issues/2021-11-24/3117331-10-slick_blazy_formatter_field_type_fix.patch"
       },
       "drupal/moderation_dashboard": {
         "User schedule tab throw 500 error": "https://www.drupal.org/files/issues/2020-05-04/user_load_moderation_dashboard_updated_with_DI_for_beta_version_3048782.patch"
